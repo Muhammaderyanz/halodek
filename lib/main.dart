@@ -1,5 +1,7 @@
-import 'package:bukuxirplb/config/pages/buku/login_pages.dart';
+import 'package:bukuxirplb/pages/login/login_pages.dart';
 import 'package:flutter/material.dart';
+
+import 'pages/login/login_pages.dart';
 
 void main() {
   runApp(const MyApp());
